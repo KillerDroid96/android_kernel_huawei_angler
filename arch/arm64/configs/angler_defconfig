@@ -1,3 +1,8 @@
+# ---------------------------------------
+# Dirty Unicorn Tweaks
+# ---------------------------------------
+CONFIG_WAKE_GESTURES=y
+# ---------------------------------------
 #
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm64 3.10.107 Kernel Configuration
